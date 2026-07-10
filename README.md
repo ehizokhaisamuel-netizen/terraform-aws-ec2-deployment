@@ -226,4 +226,4 @@ Several of these errors (`InvalidParameterCombination`, `InvalidKeyPair.NotFound
 ## 👤 Author
 
 **[Samuel Ehizokhai]** — DevOps/Cloud Engineer  
-[www.linkedin.com/in/samuel-ehizokhai] · [[GitHub](https://github.com/ehizokhaisamuel-netizen)] · [ehizokhaisamuel@gmail.com]
+[Linkedin][www.linkedin.com/in/samuel-ehizokhai] · [Github][https://github.com/ehizokhaisamuel-netizen] · [Email][ehizokhaisamuel@gmail.com]
