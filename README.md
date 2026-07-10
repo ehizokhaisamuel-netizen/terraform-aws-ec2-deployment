@@ -11,7 +11,7 @@ This project uses Terraform to deploy a virtual machine (EC2 instance) on AWS wi
 
 ## 🏗️ Architecture
 
-![alt text](885229d3-542d-4ca6-9b94-eea5f2ea702b.png)
+<img width="1536" height="1024" alt="architecture-diagram" src="https://github.com/user-attachments/assets/ff8ba926-4424-4ac9-b776-b072215b16fc" />
 
 ## 🧰 Prerequisites
 
