@@ -89,7 +89,7 @@ terraform destroy
 | `terraform plan` output | ![plan](screenshots/terraform-plan.png) |
 | `terraform apply` success | ![apply](screenshots/terraform-apply.png) |
 | EC2 instance in AWS Console | ![console](screenshots/aws-console.png) |
-| SSH connection successful | ![ssh](screenshots/ssh.png) |
+| SSH connection successful | ![ssh](screenshots/SSH.png) |
 
 ## 🔐 Security Notes
 
